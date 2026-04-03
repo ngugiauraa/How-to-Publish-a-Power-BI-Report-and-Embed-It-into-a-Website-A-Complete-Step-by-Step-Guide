@@ -1,5 +1,4 @@
 # How-to-Publish-a-Power-BI-Report-and-Embed-It-into-a-Website-A-Complete-Step-by-Step-Guide
-![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/by2nr47sk7cb3brstet5.jpg)
 Microsoft Power BI is one of the most powerful business intelligence tools available today. Developed by Microsoft, it allows users to connect to hundreds of data sources, transform raw data using Power Query, create stunning interactive visualizations, and build sophisticated DAX measures for advanced analytics. Whether you are a data analyst in retail, finance, healthcare, or marketing, Power BI turns complex datasets into actionable insights that can be shared across teams.
 
 The publishing and embedding process is the bridge between your local report development in Power BI Desktop and making that report available to end users on the web. Publishing uploads your .pbix file to the Power BI Service (the cloud-based platform at app.powerbi.com), where it becomes a live, refreshable report. Once published, you can generate an embed code — an HTML iframe snippet — that lets you seamlessly integrate the interactive report directly into any website, intranet portal, SharePoint page, or custom web application.
@@ -155,11 +154,11 @@ By following this guide, you now have the complete technical knowledge to publis
 
 This article is also available on:
 
-- Medium: [ngugiauraa]()
+- Medium: [ngugiauraa](https://medium.com/@ngugigiauraa/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-a-complete-step-by-step-guide-74d91d273420?postPublishedType=repub)
 
 - Dev.to: [ngugiauraa](https://dev.to/ngugiauraa/how-to-publish-a-power-bi-report-and-embed-it-into-a-website-a-complete-step-by-step-guide-o5f)
 
-- Linkedin:  [Jesse Ngugi]()
+- Linkedin:  [Jesse Ngugi](https://www.linkedin.com/pulse/how-publish-power-bi-report-embed-website-complete-guide-jesse-ngugi-lfu3f/)
  
 
 
